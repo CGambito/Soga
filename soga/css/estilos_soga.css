@@ -1,0 +1,122 @@
+/* FUENTE */
+@font-face {
+    font-family: Regular;
+    src: url(font/TitilliumWeb-Regular.ttf);  
+}
+@font-face {
+    font-family: Bold;
+    src: url(font/TitilliumWeb-Bold.ttf);  
+}
+@font-face {
+    font-family: Light;
+    src: url(font/TitilliumWeb-Light.ttf);  
+}
+@font-face {
+    font-family: extra-Light;
+    src: url(font/TitilliumWeb-ExtraLight.ttf);  
+}
+@font-face {
+    font-family: semi-bold;
+    src: url(font/TitilliumWeb-SemiBold.ttf);  
+}
+/* FUENTE-CLASE */ 
+.regular{
+    font-family: "Regular";
+}
+.Bold{
+    font-family: "Bold";
+}
+.light{
+    font-family: "light";
+}
+.semi-bold{
+    font-family: "semi-bold";
+}
+body{
+    font-family: "Regular";
+}
+/* COLORES */
+:root {
+    --magenta: #7723EF;
+    --cian: #13FFD4;
+    --gris: #F6F6F6;
+    --rojo: #FF265A;
+    --azul: #323261;
+    --amarillo: #FFC726;
+    --negro: #333333;
+    --azul-claro: #E9EDFF;
+    --blanco: #ffffff;
+}
+
+/* COLOR TEXTO */
+
+.txt-magenta {
+    color: var(--magenta);
+}
+
+.txt-cian {
+    color: var(--cian);
+}
+
+.txt-gris {
+    color: var(--gris);
+}
+
+.txt-rojo {
+    color: var(--rojo);
+}
+
+.txt-azul {
+    color: var(--azul);
+}
+
+.txt-amarrillo {
+    color: var(--negro);
+}
+
+.txt-azul-claro {
+    color: var(--azul-claro);
+}
+.txt-blanco {
+    color: var(--blanco);
+}
+
+
+/* BACKGROUND */
+.bg-magenta {
+    background-color: var(--magenta);
+}
+
+.bg-cian {
+    background-color: var(--cian);
+}
+
+.bg-gris {
+    background-color: var(--gris);
+}
+
+.bg-rojo {
+    background-color: var(--rojo);
+}
+
+.bg-azul {
+    background-color: var(--azul);
+}
+
+.bg-amarrillo {
+    background-color: var(--negro);
+}
+
+.bg-azul-claro {
+    background-color: var(--azul-claro);
+}
+
+/* elementos */
+.linea-roja{
+top: 153px;
+left: 165px;
+width: 44px;
+height: 5px;
+background: var(--rojo) 0% 0% no-repeat padding-box;
+opacity: 1;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="9px" viewBox="0 0 6 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon-down-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4D---Tienda-Online" transform="translate(-937.000000, -169.000000)" fill="#50535A" fill-rule="nonzero">
+            <g id="Group-6" transform="translate(691.000000, 136.000000)">
+                <g id="Group-5" transform="translate(1.000000, 15.000000)">
+                    <polygon id="icon-down-arrow" transform="translate(248.000000, 22.468750) rotate(-90.000000) translate(-248.000000, -22.468750) " points="251.0625 20 252 20.9375 248 24.9375 244 20.9375 244.9375 20 248 23.0625"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

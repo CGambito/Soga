@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="6px" viewBox="0 0 8 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon-down-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1D---Menú-Inactivo" transform="translate(-523.000000, -90.000000)" fill="#00A9E0" fill-rule="nonzero">
+            <g id="Menu-Bar-Web-Pública" transform="translate(0.000000, 40.000000)">
+                <g id="Productos-y-Servicios" transform="translate(355.000000, 39.000000)">
+                    <polygon id="icon-down-arrow" transform="translate(172.000000, 14.187500) scale(1, -1) rotate(-180.000000) translate(-172.000000, -14.187500) " points="175.0625 11.71875 176 12.65625 172 16.65625 168 12.65625 168.9375 11.71875 172 14.78125"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

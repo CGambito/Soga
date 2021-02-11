@@ -1,0 +1,46 @@
+html,body{     
+      height:100%;
+      width:100%;
+      margin: 0px;
+    }
+
+.fondo{
+    background: url(/atencion-al-cliente/img/D-CAVs-Fondo.jpg) no-repeat fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.form-control{
+    height: 38px !important;
+}
+img{
+    width: 14%;
+    height: auto;
+}
+
+@media only screen and (max-width: 400px) {
+    img{
+        width: 20%;
+        height: auto;
+    }
+
+    .fondo{
+        background: url(/atencion-al-cliente/img/M-CAVs-Fondo.jpg) no-repeat fixed center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        height: 100%;
+        width: 100% ;
+        text-align: center;
+        align-items: center;
+        display: flow-root;
+    }
+    
+}
