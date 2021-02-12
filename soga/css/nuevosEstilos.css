@@ -1,0 +1,23 @@
+
+#formulario form{
+   align-items: center; 
+}
+
+#formulario input {
+    width: 320px;
+    height: 48px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+#formulario  h4{
+    margin-top: 16px;
+    text-align: center;   
+}
+#formulario  button{
+    margin-top: 35px;
+    margin-bottom: 8px;
+    text-align: center;  
+}
+
+
+
