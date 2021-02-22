@@ -49,6 +49,7 @@ body{
     --negro: #333333;
     --azul-claro: #E9EDFF;
     --blanco: #ffffff;
+    --celeste:#E9EDFF;
 }
 
 /* COLOR TEXTO */
@@ -133,6 +134,9 @@ body{
 }
 .bg-blanco {
     background-color: var(--blanco);
+}
+.bg-celeste {
+    background-color: var(--celeste);
 }
 
 /* SIZE TEXTO */
