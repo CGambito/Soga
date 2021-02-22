@@ -50,6 +50,7 @@ body{
     --azul-claro: #E9EDFF;
     --blanco: #ffffff;
     --celeste:#E9EDFF;
+    --grisclaro:#C2C2C2;
 }
 
 /* COLOR TEXTO */
@@ -91,7 +92,9 @@ body{
 .txt-negro {
     color: var(--negro);
 }
-
+.txt-grisclaro {
+    color: var(--grisclaro);
+}
 
 /* BACKGROUND */
 .btn{
