@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Build and Deploy
-        uses: JamesIves/github-pages-deploy-action@master
+        
         env:
           CLAVE_DE_ACCESO_SECRETA_AWS: ${{ secrets.CLAVE_DE_ACCESO_SECRETA_AWS }}
           ID_DECLAVE_DE_ACCESO_AWS: ${{ secrets.ID_DECLAVE_DE_ACCESO_AWS }}
