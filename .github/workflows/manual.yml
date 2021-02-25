@@ -17,6 +17,6 @@ jobs:
         env:
           CLAVE_DE_ACCESO_SECRETA_AWS: ${{ secrets.CLAVE_DE_ACCESO_SECRETA_AWS }}
           ID_DECLAVE_DE_ACCESO_AWS: ${{ secrets.ID_DECLAVE_DE_ACCESO_AWS }}
-          BRANCH: gh-pages
-          FOLDER: public
+     
+        
           BUILD_SCRIPT: yarn && yarn run build
