@@ -1,0 +1,22 @@
+name: Build and Deploy to GitHub Pages on Push
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: Build and Deploy
+        uses: JamesIves/github-pages-deploy-action@master
+        env:
+          CLAVE_DE_ACCESO_SECRETA_AWS: ${{ secrets.CLAVE_DE_ACCESO_SECRETA_AWS }}
+          ID_DECLAVE_DE_ACCESO_AWS: ${{ secrets.ID_DECLAVE_DE_ACCESO_AWS }}
+          BRANCH: gh-pages
+          FOLDER: public
+          BUILD_SCRIPT: yarn && yarn run build
