@@ -1,0 +1,20 @@
+name: Upload Website
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        sogaweb: ${{ secrets.sogaweb }}
+        CLAVE_DE_ACCESO_SECRETA_AWS: ${{ secrets.CLAVE_DE_ACCESO_SECRETA_AWS }}
+        ID_DECLAVE_DE_ACCESO_AWS: ${{ secrets.ID_DECLAVE_DE_ACCESO_AWS }}
+        AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
