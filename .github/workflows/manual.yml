@@ -17,4 +17,4 @@ jobs:
         sogaweb: ${{ secrets.sogaweb }}
         CLAVE_DE_ACCESO_SECRETA_AWS: ${{ secrets.CLAVE_DE_ACCESO_SECRETA_AWS }}
         ID_DECLAVE_DE_ACCESO_AWS: ${{ secrets.ID_DECLAVE_DE_ACCESO_AWS }}
-        AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
+        AWS_REGION: 'us-east-2'   # optional: defaults to us-east-1
