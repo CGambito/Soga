@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1092.7 297.1" style="enable-background:new 0 0 1092.7 297.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'TitilliumWeb-Bold';}
+	.st3{font-size:29.7755px;}
+	.st4{fill:#E6BF42;}
+	.st5{font-size:37.4675px;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="107.4" cy="184.1" r="100.4"/>
+<text transform="matrix(1 0 0 1 26.0734 192.0002)" class="st1 st2 st3">Desconocido</text>
+<text transform="matrix(1 0 0 1 146.2857 40.7837)" class="st4 st2 st5">ATRAER</text>
+<text transform="matrix(1 0 0 1 339.0511 40.7837)" class="st4 st2 st5">CONVERTIR</text>
+<text transform="matrix(1 0 0 1 589.411 40.7837)" class="st4 st2 st5">CERRAR</text>
+<text transform="matrix(1 0 0 1 788.8165 40.7837)" class="st4 st2 st5">DELEITAR</text>
+<polyline class="st6" points="196.9,254 234.8,254 221.1,240.3 "/>
+<line class="st6" x1="234.8" y1="254" x2="221.1" y2="267.7"/>
+<circle class="st0" cx="327.2" cy="184.1" r="100.4"/>
+<text transform="matrix(1 0 0 1 269.2107 192.0002)" class="st1 st2 st3">Visitante</text>
+<polyline class="st6" points="416.7,254 454.5,254 440.8,240.3 "/>
+<line class="st6" x1="454.5" y1="254" x2="440.8" y2="267.7"/>
+<circle class="st0" cx="546.9" cy="184.1" r="100.4"/>
+<text transform="matrix(1 0 0 1 516.5162 192.0002)" class="st1 st2 st3">Lead</text>
+<polyline class="st6" points="636.4,254 674.3,254 660.6,240.3 "/>
+<line class="st6" x1="674.3" y1="254" x2="660.6" y2="267.7"/>
+<circle class="st0" cx="766.7" cy="184.1" r="100.4"/>
+<text transform="matrix(1 0 0 1 721.8832 192.0002)" class="st1 st2 st3">Cliente</text>
+<polyline class="st6" points="856.2,254 894,254 880.3,240.3 "/>
+<line class="st6" x1="894" y1="254" x2="880.3" y2="267.7"/>
+<circle class="st0" cx="986.4" cy="184.1" r="100.4"/>
+<text transform="matrix(1 0 0 1 906.899 192.0002)" class="st1 st2 st3">Preescriptor</text>
+</svg>

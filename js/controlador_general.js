@@ -6,10 +6,10 @@ document.getElementsByClassName('site-header')[0].classList.add("navbar-backgrou
       };
     }; */
     var swiper = new Swiper('.swiper-container', {
-      slidesPerView: 3,
-      spaceBetween: 30,
+      slidesPerView: 6,
+      spaceBetween: 0,
       slidesPerGroup: 3,
-      loop: true,
+      loop: false,
       loopFillGroupWithBlank: true,
     
       navigation: {
@@ -17,4 +17,3 @@ document.getElementsByClassName('site-header')[0].classList.add("navbar-backgrou
         prevEl: '.swiper-button-prev',
       },
     });
-  
